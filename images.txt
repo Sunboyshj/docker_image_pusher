@@ -1,2 +1,1 @@
-https://github.com/Sunboyshj/docker_image_pusher/edit/main/images.txt
-
+--platform linux/arm64 onlyoffice/documentserver:8.0.1.1
